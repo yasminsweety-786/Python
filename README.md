@@ -1,4 +1,4 @@
-# Python
+# Python | Day 1
 #day1
 Daily Python practice.
 
