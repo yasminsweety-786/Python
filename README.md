@@ -9,3 +9,7 @@ Worked with Python lists and practiced using the `sum()` function to calculate t
 
 Practiced variables and user input in Python.
 
+## Day 4 - Python Loops
+- for loop
+- while loop
+- pattern printing
