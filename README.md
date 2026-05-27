@@ -16,3 +16,15 @@ Practiced variables and user input in Python.
 - while loop
 - pattern printing
 
+# Day 5 - Python Functions
+
+Topics Learned:
+- Basic Functions
+- Parameters
+- Return Statement
+- Calculator Project
+
+Skills Practiced:
+- Function creation
+- Reusability
+- Logic building
