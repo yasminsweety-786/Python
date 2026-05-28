@@ -9,7 +9,6 @@ Worked with Python lists and practiced using the `sum()` function to calculate t
 
 Practiced variables and user input in Python.
 
-
 =======
 ## Day 4 - Python Loops
 - for loop
@@ -28,3 +27,22 @@ Skills Practiced:
 - Function creation
 - Reusability
 - Logic building
+
+# Day 6 - Python Lists
+
+Today I learned:
+- List basics
+- Indexing
+- Updating lists
+- List methods
+- Looping through lists
+- Mini practice problems
+
+Skills Practiced:
+- append()
+- insert()
+- remove()
+- pop()
+- sort()
+- reverse()
+
