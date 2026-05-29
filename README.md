@@ -46,3 +46,21 @@ Skills Practiced:
 - sort()
 - reverse()
 
+## Day 7 - Tuples and Sets
+
+Learned:
+
+* Tuple basics
+* Tuple methods
+* Set basics
+* Set operations
+* Removing duplicates using sets
+
+Files:
+
+* 01_tuples.py
+* 02_tupleMethods.py
+* 03_sets.py
+* 04_setMethods.py
+* 05_practice.py
+
