@@ -63,4 +63,23 @@ Files:
 * 03_sets.py
 * 04_setMethods.py
 * 05_practice.py
+## Day 8 - Dictionaries
+
+Learned:
+
+* Dictionary basics
+* Accessing values
+* Dictionary methods
+* Looping through dictionaries
+* Marks calculator mini practice
+
+Files:
+
+* 01_dictionaryBasics.py
+* 02_accessValues.py
+* 03_dictionaryMethods.py
+* 04_loopDictionary.py
+* 05_practice.py
+
+
 
