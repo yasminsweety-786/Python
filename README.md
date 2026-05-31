@@ -81,5 +81,24 @@ Files:
 * 04_loopDictionary.py
 * 05_practice.py
 
+# Day 9 - Strings
+
+Topics Covered:
+- String Basics
+- Indexing
+- Slicing
+- Reverse String
+- String Methods
+- String Practice Programs
+- Vowel Counter Mini Project
+
+Files:
+01_stringBasics.py
+02_stringSlicing.py
+03_stringMethods.py
+04_stringPractice.py
+05_miniProject.py
+
+
 
 
