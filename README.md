@@ -58,11 +58,11 @@ Learned:
 
 Files:
 
-* 01_tuples.py
-* 02_tupleMethods.py
-* 03_sets.py
-* 04_setMethods.py
-* 05_practice.py
+ 01_tuples.py
+ 02_tupleMethods.py
+ 03_sets.py
+ 04_setMethods.py
+ 05_practice.py
 ## Day 8 - Dictionaries
 
 Learned:
@@ -75,11 +75,11 @@ Learned:
 
 Files:
 
-* 01_dictionaryBasics.py
-* 02_accessValues.py
-* 03_dictionaryMethods.py
-* 04_loopDictionary.py
-* 05_practice.py
+ 01_dictionaryBasics.py
+ 02_accessValues.py
+ 03_dictionaryMethods.py
+ 04_loopDictionary.py
+ 05_practice.py
 
 # Day 9 - Strings
 
