@@ -99,6 +99,23 @@ Files:
 04_stringPractice.py
 05_miniProject.py
 
+# Day 10 - Advanced Functions
+
+Topics Covered:
+- Function Basics
+- Function Arguments
+- Return Values
+- Lambda Functions
+- Recursion Basics
+
+Files:
+01_functionsBasics.py
+02_functionArguments.py
+03_returnValues.py
+04_lambdaFunctions.py
+05_recursionBasics.py
+
+
 
 
 
