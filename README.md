@@ -115,7 +115,22 @@ Files:
 04_lambdaFunctions.py
 05_recursionBasics.py
 
+# Day 11 - Modules and Packages
 
+Topics Covered:
+- Import Module
+- Math Module
+- Random Module
+- Datetime Module
+- Custom Modules
+
+Files:
+01_importModule.py
+02_mathModule.py
+03_randomModule.py
+04_datetimeModule.py
+05_customModule.py
+helper.py
 
 
 
