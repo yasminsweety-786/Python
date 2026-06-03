@@ -132,5 +132,19 @@ Files:
 05_customModule.py
 helper.py
 
+# Day 12 - File Handling
 
+Topics Covered:
+- Creating Files
+- Reading Files
+- Writing Files
+- Appending Data
+- Mini Notes Application
+
+Files:
+01_createFile.py
+02_readFile.py
+03_writeFile.py
+04_appendFile.py
+05_practice.py
 
