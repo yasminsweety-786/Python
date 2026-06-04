@@ -148,3 +148,20 @@ Files:
 04_appendFile.py
 05_practice.py
 
+# Day 13 - Exception Handling
+
+Topics Covered:
+- try
+- except
+- multiple exceptions
+- finally
+- raise exception
+
+Files:
+01_tryExcept.py
+02_multipleExceptions.py
+03_finallyBlock.py
+04_raiseException.py
+05_practice.py
+
+
