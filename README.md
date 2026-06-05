@@ -164,4 +164,20 @@ Files:
 04_raiseException.py
 05_practice.py
 
+# Day 14 - OOP Basics
+
+Topics Covered:
+- Class
+- Object
+- Constructor (__init__)
+- Instance Variables
+- Instance Methods
+- Multiple Objects
+
+Files:
+01_classObject.py
+02_constructor.py
+03_instanceMethods.py
+04_multipleObjects.py
+05_practice.py
 
