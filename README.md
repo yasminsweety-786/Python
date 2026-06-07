@@ -181,3 +181,18 @@ Files:
 04_multipleObjects.py
 05_practice.py
 
+## Day 15: Inheritance
+
+### Topics Covered
+- Single Inheritance
+- Multilevel Inheritance
+- Multiple Inheritance
+- super() Keyword
+- Parent & Child Classes
+
+### Files
+- 01_singleInheritance.py
+- 02_multilevelInheritance.py
+- 03_multipleInheritance.py
+- 04_superKeyword.py
+- 05_practice.py
