@@ -210,3 +210,10 @@ Real-world Example (Payment System)
 - 02_method_overriding.py  
 - 03_duck_typing.py  
 - 04_real_world_example.py  
+
+Day 17: Encapsulation & Abstraction
+- Private variables
+- Getters and Setters
+- Data Hiding
+- Abstract Classes
+- Abstract Methods
