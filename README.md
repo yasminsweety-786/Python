@@ -196,3 +196,17 @@ Files:
 - 03_multipleInheritance.py
 - 04_superKeyword.py
 - 05_practice.py
+
+- # Polymorphism_Day16
+
+## Topics Covered
+Polymorphism in Python  
+Method Overriding  
+Duck Typing  
+Real-world Example (Payment System)
+
+## Files
+- 01_basic_polymorphism.py  
+- 02_method_overriding.py  
+- 03_duck_typing.py  
+- 04_real_world_example.py  
