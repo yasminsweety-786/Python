@@ -218,18 +218,19 @@ Day 17: Encapsulation & Abstraction
 - Abstract Classes
 - Abstract Methods
 
-  Files
+ ## Day 18: Iterators & Generators
 
-01_encapsulationBasics.py
-02_privateVariables.py
-03_gettersSetters.py
-04_abstractionBasics.py
-05_practice.py
+### Topics Covered
+- iter()
+- next()
+- Custom Iterators
+- Generators
+- yield Keyword
 
-Day 17: Encapsulation & Abstraction
-
-Private variables
-Getters and Setters
-Data Hiding
-Abstract Classes
-Abstract Methods
+### Files
+- 01_iteratorBasics.py
+- 02_nextFunction.py
+- 03_customIterator.py
+- 04_generatorBasics.py
+- 05_practice.py
+  
