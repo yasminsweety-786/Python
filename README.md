@@ -217,3 +217,19 @@ Day 17: Encapsulation & Abstraction
 - Data Hiding
 - Abstract Classes
 - Abstract Methods
+
+  Files
+
+01_encapsulationBasics.py
+02_privateVariables.py
+03_gettersSetters.py
+04_abstractionBasics.py
+05_practice.py
+
+Day 17: Encapsulation & Abstraction
+
+Private variables
+Getters and Setters
+Data Hiding
+Abstract Classes
+Abstract Methods
