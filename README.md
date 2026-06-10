@@ -233,4 +233,20 @@ Day 17: Encapsulation & Abstraction
 - 03_customIterator.py
 - 04_generatorBasics.py
 - 05_practice.py
+
+- ## Day 19: Decorators
+
+### Topics Covered
+- Functions as Objects
+- Nested Functions
+- Basic Decorators
+- Decorators with Arguments
+- Wrapper Functions
+
+### Files
+- 01_functionAsObject.py
+- 02_nestedFunctions.py
+- 03_basicDecorator.py
+- 04_decoratorWithArguments.py
+- 05_practice.py
   
