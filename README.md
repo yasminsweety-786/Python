@@ -211,23 +211,23 @@ Real-world Example (Payment System)
 - 03_duck_typing.py  
 - 04_real_world_example.py  
 
-Day 17: Encapsulation & Abstraction
+ ## Day 17: Encapsulation & Abstraction
 - Private variables
 - Getters and Setters
 - Data Hiding
 - Abstract Classes
 - Abstract Methods
 
- ## Day 18: Iterators & Generators
+ - ## Day 18: Iterators & Generators
 
-### Topics Covered
+## Topics Covered
 - iter()
 - next()
 - Custom Iterators
 - Generators
 - yield Keyword
 
-### Files
+## Files
 - 01_iteratorBasics.py
 - 02_nextFunction.py
 - 03_customIterator.py
