@@ -249,4 +249,19 @@ Real-world Example (Payment System)
 - 03_basicDecorator.py
 - 04_decoratorWithArguments.py
 - 05_practice.py
-  
+
+  ## Day 20: Regular Expressions (Regex)
+
+### Topics Covered
+- Regex Basics
+- re.search()
+- re.findall()
+- Pattern Matching
+- Email and Phone Validation
+
+### Files
+- 01_regexBasics.py
+- 02_searchFunction.py
+- 03_findallFunction.py
+- 04_patternMatching.py
+- 05_practice.py
