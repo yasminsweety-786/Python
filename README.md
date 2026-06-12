@@ -259,9 +259,20 @@ Real-world Example (Payment System)
 - Pattern Matching
 - Email and Phone Validation
 
+  ## Day 21: JSON Handling
+
+### Topics Covered
+- JSON Basics
+- json.loads()
+- json.dumps()
+- json.load()
+- json.dump()
+
 ### Files
-- 01_regexBasics.py
-- 02_searchFunction.py
-- 03_findallFunction.py
-- 04_patternMatching.py
+- 01_jsonBasics.py
+- 02_jsonLoads.py
+- 03_jsonDumps.py
+- 04_readWriteJSON.py
 - 05_practice.py
+
+
