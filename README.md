@@ -282,4 +282,18 @@ Real-world Example (Payment System)
 - 04_readWriteJSON.py
 - 05_practice.py
 
+## Day 22: OS Module & File Paths
 
+### Topics Covered
+- os.getcwd()
+- os.listdir()
+- os.mkdir()
+- os.path.join()
+- os.path.exists()
+
+### Files
+- 01_currentDirectory.py
+- 02_listFiles.py
+- 03_createFolder.py
+- 04_filePaths.py
+- 05_practice.py
