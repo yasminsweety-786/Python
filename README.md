@@ -297,3 +297,20 @@ Real-world Example (Payment System)
 - 03_createFolder.py
 - 04_filePaths.py
 - 05_practice.py
+
+## Day 23: Date & Time Module
+
+### Topics Covered
+- datetime.now()
+- strftime()
+- timedelta()
+- Date Operations
+- Date Calculations
+
+### Files
+- 01_currentDateTime.py
+- 02_dateFormatting.py
+- 03_timeDelta.py
+- 04_dateOperations.py
+- 05_practice.py
+  
