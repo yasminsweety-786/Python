@@ -313,4 +313,20 @@ Real-world Example (Payment System)
 - 03_timeDelta.py
 - 04_dateOperations.py
 - 05_practice.py
+
+  ## Day 24: API Requests
+
+### Topics Covered
+- requests Module
+- GET Requests
+- JSON Responses
+- API Parameters
+- Consuming Public APIs
+
+### Files
+- 01_requestsBasics.py
+- 02_getRequest.py
+- 03_jsonResponse.py
+- 04_apiParameters.py
+- 05_practice.py
   
