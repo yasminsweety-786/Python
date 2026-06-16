@@ -329,4 +329,20 @@ Real-world Example (Payment System)
 - 03_jsonResponse.py
 - 04_apiParameters.py
 - 05_practice.py
+
+  ## Day 25: SQLite Database
+
+### Topics Covered
+- Creating Database
+- Creating Tables
+- Inserting Records
+- Fetching Records
+- SQL Queries in Python
+
+### Files
+- 01_createDatabase.py
+- 02_createTable.py
+- 03_insertData.py
+- 04_fetchData.py
+- 05_practice.py
   
