@@ -345,4 +345,19 @@ Real-world Example (Payment System)
 - 03_insertData.py
 - 04_fetchData.py
 - 05_practice.py
-  
+
+  ## Day 26: Virtual Environments & Packages
+
+### Topics Covered
+- Python Packages
+- Installing Packages
+- Importing Packages
+- Package Information
+- requirements.txt
+
+### Files
+- 01_checkInstalledPackages.py
+- 02_importPackage.py
+- 03_packageInformation.py
+- 04_requirementsFile.py
+- 05_practice.py
