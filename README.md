@@ -361,3 +361,19 @@ Real-world Example (Payment System)
 - 03_packageInformation.py
 - 04_requirementsFile.py
 - 05_practice.py
+
+  ## Day 27: Logging Module
+
+### Topics Covered
+- Basic Logging
+- Logging Levels
+- Logging to File
+- Exception Logging
+- Debugging Applications
+
+### Files
+- 01_basicLogging.py
+- 02_loggingLevels.py
+- 03_logToFile.py
+- 04_exceptionLogging.py
+- 05_practice.py
