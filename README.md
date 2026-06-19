@@ -377,3 +377,33 @@ Real-world Example (Payment System)
 - 03_logToFile.py
 - 04_exceptionLogging.py
 - 05_practice.py
+
+
+## 🚀 Projects
+
+### 🎓 Student Management System (Day 28)
+
+A Python + SQLite based student management system.
+
+Features:
+- Add student
+- View students
+- Update student details
+- Delete student records
+- Database integration using SQLite
+
+Technologies used:
+- Python
+- SQLite3
+
+## 🛠️ Concepts Covered
+
+✅ Variables and Data Types  
+✅ Conditional Statements  
+✅ Loops  
+✅ Functions  
+✅ OOP Concepts  
+✅ Modules  
+✅ Exception Handling  
+✅ Logging  
+✅ Database Connectivity  
