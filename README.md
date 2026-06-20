@@ -407,3 +407,25 @@ Technologies used:
 ✅ Exception Handling  
 ✅ Logging  
 ✅ Database Connectivity  
+
+# Day 29 - Flask Basics 🚀
+
+## Project:
+Flask Basics Introduction
+## Topics Covered:
+- Installing Flask
+- Creating Flask App
+- Flask Routes
+- Rendering HTML Templates
+- Debug Mode
+
+## Files:
+app.py
+templates/index.html
+
+## Run Project:
+python app.py
+Open:
+http://127.0.0.1:5000
+## Output:
+Flask webpage displayed using HTML template.
