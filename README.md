@@ -429,3 +429,34 @@ Open:
 http://127.0.0.1:5000
 ## Output:
 Flask webpage displayed using HTML template.
+
+# Day 30 - REST API Basics
+
+## Topic
+REST API using Flask
+
+## Learned
+
+- What is REST API
+- GET and POST methods
+- JSON response handling
+- Creating API routes using Flask
+- Handling request data
+
+## Project
+
+Student REST API
+
+Features:
+- Get all students
+- Get student by ID
+- Add new student
+
+## Technologies
+
+- Python
+- Flask
+- JSON
+
+
+
